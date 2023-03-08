@@ -5,5 +5,13 @@
 
 </p>
 
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/made%20by%20-Aarti-white">
+<img src="https://img.shields.io/badge/JAVA-pink">
+<img src="https://img.shields.io/badge/BACKTRACKING-brightgreen">
+ 
+
+</p>
 
 N-Queen-Solver(ongoing)
