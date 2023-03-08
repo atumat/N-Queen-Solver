@@ -14,4 +14,4 @@
 
 </p>
 
-N-Queen-Solver(ongoing)
+<h2>N-Queen-Solver(ongoing)</h2>
